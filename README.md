@@ -1,40 +1,44 @@
-# 👋 sup im samalala2 🖤
+<!-- Emo/Punk GitHub Profile README -->
 
-🎶 *totally not emo*  
-Big into **Green Day**, **My Chemical Romance**, and late-night coding sessions.  
-Mostly writing in **Python** and tinkering with **HTTP/web stuff**.  
-
----
-
-## 🕶️ My Interests
-- 💀 Emo & punk music
-- 🎸 Guitar riffs + screaming along to *Welcome to the Black Parade*
-- 🖥️ Coding random scripts in Python
-- 🌍 Building things on the web with HTTP
-- 🎮 Minecraft modding & servers
+<div align="center">
+  <img src="https://i.imgur.com/j4y2U9X.gif" width="100%" alt="glitchy punk banner"/>
+  <h1>👻 sup im <b>samalala2</b></h1>
+  <p><i>totally not emo • Green Day stan • MCR forever • coding skid</i></p>
+</div>
 
 ---
 
-## ⚡ Tech I Use
-![Python](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-Web-blue?logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 💀 About Me
+- 🖤 Living on caffeine & power chords  
+- 🎸 Big fan of **Green Day** + **My Chemical Romance**  
+- 🐍 I code mostly in **Python** & mess with **HTTP shit**  
+- 🤡 Probably crying in your server logs  
 
 ---
 
-## 🖤 Fun Stuff
-![Green Day](https://img.shields.io/badge/Green%20Day-%F0%9F%8E%B6-black)
-![MCR](https://img.shields.io/badge/My%20Chemical%20Romance-%F0%9F%8E%B8-darkred)
+### 🛠️ Tools & Languages
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white)
+![HTTP](https://img.shields.io/badge/-HTTP-000?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🔗 Links
-- 🎸 Minecraft server → `mc.mommybiteme.shop`
-- 🌍 Website → [mommybiteme.shop](https://mommybiteme.shop)
-- 🦇 GitHub → [samalala2](https://github.com/samalala2)
+### 📊 Stats (because numbers look cool)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samalala2&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samalala2&layout=compact&theme=dracula&hide_border=true" height="180px"/>
+</div>
 
+---
 
-<p align="center">
-  <img src="https://i.imgur.com/Hw1U4xA.gif" alt="emo aesthetic" />
-</p>
+### 🕯️ Emo Quote of the Day
+> *"where are you, and im so sorry"- blink-182*  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="400px" alt="emo gif"/>
+  <br/>
+  <i>add me to your repo or your nightmares 💀</i>
+</div>
