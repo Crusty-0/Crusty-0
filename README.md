@@ -6,6 +6,10 @@
   <p><i>totally not emo • Green Day stan • MCR forever • coding skid</i></p>
 </div>
 
+### 🌐 check out my full profile site nerds
+[click here to visit my profile site](https://profile.mommybiteme.shop)
+
+
 ---
 
 ### 💀 About Me
@@ -13,7 +17,7 @@
 - 🎸 Big fan of **Green Day** + **My Chemical Romance**  
 - 🐍 I code mostly in **Python** & mess with **HTTP shit**  
 - 🤡 Probably crying in your server logs
-- check out my full profile at profile.mommybiteme.shop
+
 
 
 ---
