@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Samalala 🖤
+# 👋 sup im samalala2 🖤
 
-🎶 *Emo kid stuck in the 2000s.*  
+🎶 *totally not emo*  
 Big into **Green Day**, **My Chemical Romance**, and late-night coding sessions.  
 Mostly writing in **Python** and tinkering with **HTTP/web stuff**.  
 
@@ -33,3 +33,8 @@ Mostly writing in **Python** and tinkering with **HTTP/web stuff**.
 - 🎸 Minecraft server → `mc.mommybiteme.shop`
 - 🌍 Website → [mommybiteme.shop](https://mommybiteme.shop)
 - 🦇 GitHub → [samalala2](https://github.com/samalala2)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/Hw1U4xA.gif" alt="emo aesthetic" />
+</p>
