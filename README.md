@@ -12,7 +12,9 @@
 - 🖤 Living on caffeine & power chords  
 - 🎸 Big fan of **Green Day** + **My Chemical Romance**  
 - 🐍 I code mostly in **Python** & mess with **HTTP shit**  
-- 🤡 Probably crying in your server logs  
+- 🤡 Probably crying in your server logs
+- check out my full profile at profile.mommybiteme.shop
+
 
 ---
 
